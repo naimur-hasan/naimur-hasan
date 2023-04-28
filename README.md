@@ -1,6 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Naimur Hasan</h1>
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
+<img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimur-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="naimur-hasan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
