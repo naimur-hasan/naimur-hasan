@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Naimur Hasan</h1>
 <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimur-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="naimur-hasan" /> </p>
